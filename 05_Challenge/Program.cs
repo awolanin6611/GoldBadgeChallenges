@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_Challenge
+namespace _05_Challenge
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -14,4 +14,5 @@ namespace _01_Challenge
             program.Run();
         }
     }
+    
 }
